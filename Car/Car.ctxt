@@ -1,0 +1,24 @@
+#BlueJ class context
+#Mon Nov 09 21:14:27 CST 2026
+comment0.target=Car
+comment0.text=\n Represents a Car object tracking year, model, total mileage, and fuel tank level.\n
+comment1.params=year model miles fuelTankLevel
+comment1.target=Car(int, java.lang.String, int, double)
+comment1.text=\n Constructor for objects of class Car.\n
+comment10.params=miles
+comment10.target=java.lang.String drive(int)
+comment11.target=java.lang.String drive()
+comment11.text=\n Overloaded drive method\: drives a random distance between 1 and 10 miles.\n
+comment12.target=java.lang.String toString()
+comment2.target=int getYear()
+comment3.target=java.lang.String getModel()
+comment4.target=int getMiles()
+comment5.target=double getFuelTankLevel()
+comment6.params=milesToAdd
+comment6.target=void addMiles(int)
+comment7.target=boolean isFuelTankEmpty()
+comment8.params=miles
+comment8.target=double milesToFuelLevel(int)
+comment9.params=miles
+comment9.target=void modifyFuelTankLevel(int)
+numComments=13

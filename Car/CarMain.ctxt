@@ -1,0 +1,17 @@
+#BlueJ class context
+#Mon Nov 09 21:14:27 CST 2026
+comment0.target=CarMain
+comment0.text=\n Driver class to test the Car class implementation and run a driving simulation.\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.params=mine
+comment2.target=void accessorTest(Car)
+comment3.params=mine miles
+comment3.target=void addMilesTest(Car, int)
+comment4.params=mine
+comment4.target=void isFuelTankEmptyTests(Car)
+comment5.params=mine
+comment5.target=void milesToFuelLevelTests(Car)
+comment6.params=mine
+comment6.target=void modifyFuelTankLevelTests(Car)
+numComments=7
